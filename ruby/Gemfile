@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+ruby '>=3'
+
+# IIRC RSpec is the de-facto Ruby unit test framework? 😅
+gem 'rspec'
